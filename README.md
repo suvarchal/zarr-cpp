@@ -11,7 +11,7 @@ make
 ```
 
 ## To execute 
-./cpp-zarr
+`./cpp-zarr`
 
 it generates test.zarr directory/dataset with one variable sst.
 
