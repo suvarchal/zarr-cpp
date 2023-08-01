@@ -1,7 +1,7 @@
 # zarr-cpp
 CPP interface to Zarr format
 
-currently supports serial IO
+currently supports one var one chunk
 
 ## To build
 
